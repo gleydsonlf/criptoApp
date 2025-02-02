@@ -1,0 +1,2 @@
+# criptoApp
+react, table, api
